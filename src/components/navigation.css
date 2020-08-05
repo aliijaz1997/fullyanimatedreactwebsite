@@ -1,0 +1,21 @@
+ .navbar {
+    background: #ececec;
+    padding: 8px;
+    border: none;
+    box-shadow: 0 2px 4px -1px rgba(0,0,0,0.25);
+}
+.text {
+    font-weight: 900;
+    font-size: x-large;
+}
+.subtextnavbar {
+    float: right;
+    text-align: right;
+    text-decoration: none;
+    border: none;
+    background: none;
+    margin-top: -30px;
+    margin-right: 10px;
+    font-weight: 600;
+    padding: 12px 8px;
+}

@@ -1,0 +1,15 @@
+.image1{
+    width: 400px;
+    height: 300px;
+    float: right;
+    margin-top: 80px;
+    margin-right:  -200px ;
+    position: relative;
+    
+}
+.typo1 {
+         margin-top: 20%;
+        line-height: 1em !important;
+        margin-bottom: 20px !important;
+      
+}
