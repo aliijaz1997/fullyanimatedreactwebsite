@@ -3,6 +3,7 @@ import './home.css';
 // import {  Typography} from '@material-ui/core'
 // import { createMuiTheme, ThemeProvider } from '@material-ui/core/styles';
 import image from '../images/2975507.jpg';
+import image1 from '../images/thumbnail.png';
 // const theme = createMuiTheme();
 
 // theme.typography.h3 = {
@@ -35,6 +36,17 @@ function Home() {
             are being connected to the internet forming it an internet of thing. BlockChain is
             also being emerging rapidly.
         </p>
+         </div>
+
+         <div>
+             <img className = "image2" src = {image1} alt= "medical" />
+             <p className = "para2">
+                 This revolution has contributed alot in medical facilities.
+                 Health monitoring and tracking devices are collecting real-time
+                 data from an individuals and data is being managed by data 
+                 scientists. Through a single touch one can get emergency or regular 
+                 medical facility.
+             </p>
          </div>
     </div>
     )

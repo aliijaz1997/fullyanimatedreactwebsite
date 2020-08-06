@@ -22,7 +22,23 @@
    color: slategray;
 }
 .para{
-    margin-left: 30px;
+    margin-left: 60px;
     margin-right: 750px;
     color: darkblue;
+}
+.image2{
+    width: 400px;
+    height: 300px;
+    float: right;
+    margin-top: -100px;
+    margin-right:  70px ;
+    position: inherit;
+    
+}
+.para2{
+    margin-top: 300px;
+    margin-left: 60px;
+    margin-right: 750px;
+    color: rgb(230, 192, 90);
+    font-size: 25px;
 }
