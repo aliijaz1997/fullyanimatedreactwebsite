@@ -1,44 +1,108 @@
-.image1{
-    width: 400px;
-    height: 300px;
+.image22{
+    width: 200px;
+    height: 180px;
     float: right;
-    margin-top: -15px;
-    margin-right:  70px ;
+    margin-top: 100px;
+    margin-right: 180px ;
     position: inherit;
     
 }
 .typo1 {
-         margin-top: 10%;
-        font-size: 300%;
+         margin-top: 9%;
+        font-size: 250%;
         margin-left: 30px;
       font-weight: unset;
       color: slategray;
 }
 .typo2 {
     margin-top: -4%;
-   font-size: 300%;
+   font-size: 250%;
    margin-left: 30px;
    font-weight: unset;
    color: slategray;
 }
-.para{
-    margin-left: 60px;
+.para11{
+    margin-left: 30px;
     margin-right: 750px;
     color: darkblue;
 }
-.image2{
+.image11{
     width: 400px;
     height: 300px;
     float: right;
-    margin-top: -100px;
+    margin-top: 0px;
     margin-right:  70px ;
     position: inherit;
     
 }
 .para2{
-    margin-top: 300px;
+    margin-top: 350px;
     margin-left: 60px;
     margin-right: 750px;
     color: rgb(230, 192, 90);
     font-size: 25px;
+}
+.image2{
+    width: 80px;
+    height: 50px;
+    float: right;
+    margin-top: -50px;
+    margin-right: -300px ;
+    position: inherit;
+    
+}
+.image3{
+    width: 80px;
+    height: 50px;
+    float: right;
+    margin-top: -30px;
+    margin-right: -140px ;
+    position: inherit;
+    
+}
+.image4{
+    width: 80px;
+    height: 50px;
+    float: right;
+    margin-top: -10px;
+    margin-right: 40px ;
+    position: inherit;
+    
+}
+.image5{
+    width: 140px;
+    height: 80px;
+    float: right;
+    margin-top: 180px;
+    margin-right: 0px ;
+    position: inherit;
+    
+}
+.image6{
+    width: 70px;
+    height: 100px;
+    float: right;
+    margin-top: 380px;
+    margin-right: -180px ;
+    position: inherit;
+    
+}
+.details{
+
+    color: darkred;
+    font-size: 220%;
+    margin-top: 200px;
+    margin-right: auto;
+    margin-left: 80px;
+}
+.foot {
+    color: white;
+    font-size: 120%;
+    margin-left: 250px;
+}
+.footdiv{
+    background: black;
+    margin-bottom: 0px;
+    display: flex;
+    text-align: center;
 }

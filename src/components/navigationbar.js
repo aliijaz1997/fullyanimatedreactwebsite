@@ -3,6 +3,7 @@ import  './navigation.css';
 import {BrowserRouter as Router, Routes, Route, Link} from "react-router-dom";
 import Home from '../components/home';
 import About from '../components/about';
+import Careers from '../components/careers';
 
 function NavigationBar() {
   
@@ -39,6 +40,7 @@ function NavigationBar() {
               <Routes>
                  <Route path = "/" element = {<Home/>}/>
                  <Route path = "About" element = {<About/>}/>
+                 <Route path = "Careers" element = {<Careers/>}/>
               </Routes>
   </Router>
   )
