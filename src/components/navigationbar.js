@@ -4,6 +4,7 @@ import {BrowserRouter as Router, Routes, Route, Link} from "react-router-dom";
 import Home from '../components/home';
 import About from '../components/about';
 import Careers from '../components/careers';
+import ContactUs from "../components/ContactUs";
 
 function NavigationBar() {
   
@@ -41,6 +42,7 @@ function NavigationBar() {
                  <Route path = "/" element = {<Home/>}/>
                  <Route path = "About" element = {<About/>}/>
                  <Route path = "Careers" element = {<Careers/>}/>
+                 <Route path = "ContactUs" element = {<ContactUs/>}/>
               </Routes>
   </Router>
   )
