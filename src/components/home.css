@@ -4,7 +4,6 @@
     float: right;
     margin-top: 100px;
     margin-right: 180px ;
-    position: inherit;
     
 }
 .typo1 {
@@ -13,18 +12,13 @@
         margin-left: 30px;
       font-weight: unset;
       color: slategray;
-}
-.typo2 {
-    margin-top: -4%;
-   font-size: 250%;
-   margin-left: 30px;
-   font-weight: unset;
-   color: slategray;
+      
 }
 .para11{
     margin-left: 30px;
     margin-right: 750px;
     color: darkblue;
+    
 }
 .image11{
     width: 400px;
@@ -32,7 +26,7 @@
     float: right;
     margin-top: 0px;
     margin-right:  70px ;
-    position: inherit;
+  
     
 }
 .para2{
@@ -48,7 +42,6 @@
     float: right;
     margin-top: -50px;
     margin-right: -300px ;
-    position: inherit;
     
 }
 .image3{
@@ -57,7 +50,7 @@
     float: right;
     margin-top: -30px;
     margin-right: -140px ;
-    position: inherit;
+   
     
 }
 .image4{
@@ -66,7 +59,7 @@
     float: right;
     margin-top: -10px;
     margin-right: 40px ;
-    position: inherit;
+   
     
 }
 .image5{
@@ -75,7 +68,7 @@
     float: right;
     margin-top: 180px;
     margin-right: 0px ;
-    position: inherit;
+  
     
 }
 .image6{
@@ -84,7 +77,7 @@
     float: right;
     margin-top: 380px;
     margin-right: -180px ;
-    position: inherit;
+  
     
 }
 .details{
